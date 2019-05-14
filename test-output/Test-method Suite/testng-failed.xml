@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Test-method Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.common.CustomReporter_Detailed"/>
+  </listeners>
+  <test name="Regression1(failed)" parallel="tests">
+    <classes>
+      <class name="com.driver.Driver">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testcase" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.driver.Driver -->
+    </classes>
+  </test> <!-- Regression1(failed) -->
+</suite> <!-- Failed suite [Test-method Suite] -->

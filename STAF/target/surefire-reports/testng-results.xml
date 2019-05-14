@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[AEM_TC001_TD001]]>
+    </line>
+  </reporter-output>
+  <suite name="Test-method Suite" duration-ms="133977" started-at="2017-07-13T16:03:55Z" finished-at="2017-07-13T16:06:09Z">
+    <groups>
+    </groups>
+    <test name="Regression1" duration-ms="133977" started-at="2017-07-13T16:03:55Z" finished-at="2017-07-13T16:06:09Z">
+      <class name="com.driver.Driver">
+        <test-method status="FAIL" signature="testcase(java.lang.String, java.util.HashMap)[pri:0, instance:com.driver.Driver@1a968a59]" name="testcase" duration-ms="131197" started-at="2017-07-13T21:33:58Z" data-provider="data" finished-at="2017-07-13T21:36:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AEM_TC001_TD001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[{vTSuiteID=AEM, vTCID=TC001, vTDID=TD001, tdi=1, sheet=C:\c003574 PD\Selenium workspace\STAF/src/test/java/com/testRepository/AEM.xls, stepsheet=AEM_TC001_TD001, vSheetname=AEM}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[TJ Failed on Stepid[37] : Action[ getwindowHandle],Element[null],Testdata(if any)[1.0]For input string: "1.0"]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: TJ Failed on Stepid[37] : Action[ getwindowHandle],Element[null],Testdata(if any)[1.0]For input string: "1.0"
+	at org.testng.Assert.fail(Assert.java:94)
+	at com.driver.Driver.testcase(Driver.java:142)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:816)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1124)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:774)
+	at org.testng.TestRunner.run(TestRunner.java:624)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:359)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:393)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[AEM_TC001_TD001]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.driver.Driver@1a968a59]" name="tearDown" is-config="true" duration-ms="4" started-at="2017-07-13T21:36:09Z" finished-at="2017-07-13T21:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.driver.Driver -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Test-method Suite -->
+</testng-results>

@@ -1,0 +1,408 @@
+Regression GroundUp HF 09/27/2016 23:13:52 Pass
+Regression GroundUp HH 09/27/2016 23:27:59 Pass
+Regression HARP 09/28/2016 16:00:03 Pass
+Regression GroundUp HH 09/28/2016 16:07:20 Pass
+Regression GroundUp HF 09/28/2016 16:50:23 Pass
+Smoke HealthHome 09/28/2016 22:23:34 Pass
+Smoke HealthFirst 09/28/2016 22:31:28 Pass
+Regression GroundUp HH 09/28/2016 22:36:11 Pass
+Regression HARP 09/28/2016 22:43:48 Pass
+Smoke HealthHome 09/28/2016 22:53:10 Pass
+Smoke HealthFirst 09/28/2016 23:01:25 Pass
+Regression GroundUp HF 09/28/2016 23:06:54 Pass
+Regression GroundUp CC 09/29/2016 15:11:08 Pass
+Regression GroundUp CC 09/29/2016 15:26:26 Pass
+Regression HealthHome 10/03/2016 16:11:28 Fail
+Regression HealthHome 10/03/2016 16:17:07 Fail
+Regression HealthHome 10/03/2016 16:23:15 Fail
+Regression HealthHome 10/03/2016 16:26:41 Fail
+Regression HealthHome 10/03/2016 16:33:44 Pass
+Regression HealthHome 10/03/2016 17:06:44 Fail
+Regression HealthFirst 10/03/2016 17:24:23 Fail
+Smoke CV PROD_updated 10/03/2016 17:44:29 Fail
+Smoke CV PROD_updated 10/03/2016 17:50:17 Fail
+Smoke CV PROD_updated 10/03/2016 17:54:56 Pass
+Smoke CV PROD_updated 10/03/2016 18:19:38 Pass
+Smoke CV PROD_updated 10/03/2016 19:05:26 Pass
+SP5_6240_TC001 10/03/2016 19:29:56 Fail
+SP5_6240_TC001 10/03/2016 19:37:34 Fail
+SP5_6240_TC001 10/03/2016 19:45:38 Fail
+SP5_6240_TC001 10/03/2016 19:56:12 Pass
+SP5_6240_TC001 10/03/2016 20:01:43 Pass
+SP5_6240_TC001 10/03/2016 20:05:58 Pass
+SP5_6240_TC002 10/03/2016 20:14:57 Fail
+SP5_6240_TC003 10/03/2016 20:23:36 Fail
+SP5_6240_TC002 10/03/2016 22:54:44 Fail
+SP5_6240_TC002 10/03/2016 22:57:46 Fail
+SP5_6240_TC002 10/03/2016 23:01:06 Fail
+SP5_6240_TC002 10/03/2016 23:02:15 Fail
+SP5_6240_TC002 10/04/2016 15:27:53 Fail
+SP5_6240_TC002 10/04/2016 15:46:26 Fail
+SP5_6240_TC002 10/04/2016 15:49:06 Pass
+SP5_6240_TC002 10/04/2016 15:57:01 Pass
+SP5_6240_TC002 10/04/2016 16:24:06 Fail
+SP5_6240_TC002 10/04/2016 16:25:11 Fail
+SP5_6240_TC002 10/04/2016 16:29:08 Fail
+SP5_6240_TC002 10/04/2016 16:32:39 Fail
+SP5_6240_TC003 10/04/2016 17:38:06 Fail
+SP5_6240_TC003 10/04/2016 17:44:10 Fail
+SP5_6240_TC003 10/04/2016 17:45:39 Fail
+SP5_6240_TC004 10/04/2016 17:54:12 Fail
+SP5_6240_TC004 10/04/2016 18:01:23 Pass
+SP5_6240_TC005 10/04/2016 18:10:49 Pass
+SP5_6240_TC005 10/04/2016 18:15:02 Fail
+SP5_6240_TC005 10/04/2016 18:29:07 Pass
+SP5_6240_TC005 10/04/2016 18:36:54 Pass
+SP5_6240_TC005 10/04/2016 18:42:20 Fail
+SP5_6240_TC006_TC007 10/04/2016 18:56:26 Fail
+SP5_6240_TC006_TC007 10/04/2016 19:06:57 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 19:19:22 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 19:23:17 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 19:34:17 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 19:39:55 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 19:56:26 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 20:01:54 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 20:23:00 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 20:27:17 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 20:47:38 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 20:56:56 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 21:02:12 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 22:42:02 Fail
+SP5_6240_TC002 -Barrier 10/04/2016 22:45:01 Fail
+SP5_6240_TC011_TC012 10/05/2016 16:46:19 Pass
+SP5_6240_TC011_TC012 10/05/2016 16:49:04 Fail
+SP5_6240_TC011_TC012 10/05/2016 16:55:57 Fail
+SP5_6240_TC011_TC012 10/05/2016 17:09:26 Fail
+SP5_6240_TC011_TC012 10/05/2016 17:17:09 Fail
+SP5_6240_TC011_TC012 10/05/2016 17:25:54 Fail
+SP5_6240_TC011_TC012 10/05/2016 17:33:09 Fail
+SP5_6240_TC011_TC012 10/05/2016 17:41:05 Fail
+SP5_6240_TC011_TC012 10/05/2016 18:02:59 Pass
+SP5_6240_TC011_TC012 10/05/2016 18:10:53 Pass
+SP5_6240_TC011_TC012 10/05/2016 18:29:30 Fail
+SP5_6240_TC011_TC012 10/05/2016 18:35:57 Pass
+SP5_6240_TC011_TC012 10/05/2016 18:47:09 Pass
+SP5_6240_TC002 -Barrier 10/05/2016 19:34:01 Fail
+SP5_6240_TC002 -Barrier 10/05/2016 19:37:40 Fail
+SP5_6240_TC002 -Barrier 10/05/2016 19:44:57 Fail
+SP5_6240_TC002 -Barrier 10/05/2016 19:52:25 Fail
+Regression Care Plan 10/05/2016 20:38:03 Pass
+Regression Care Plan 10/05/2016 20:56:47 Fail
+Regression Care Plan 10/05/2016 21:02:32 Fail
+Regression Care Plan 10/05/2016 21:19:54 Pass
+Regression Care Plan 10/05/2016 22:23:57 Fail
+Regression Care Plan 10/05/2016 22:34:20 Fail
+Regression Care Plan 10/05/2016 22:53:25 Fail
+Regression Care Plan 10/05/2016 22:59:31 Fail
+Regression Care Plan 10/05/2016 23:12:42 Fail
+Regression HealthFirst 10/06/2016 21:05:52 Fail
+Regression Care Plan 10/06/2016 21:17:30 Pass
+Regression Care Plan 10/06/2016 22:47:12 Pass
+Regression Care Plan 10/06/2016 23:04:39 Fail
+Smoke HealthHome 10/12/2016 16:06:47 Pass
+Smoke HealthFirst 10/12/2016 16:16:13 Pass
+Smoke CareConnect 10/12/2016 16:26:18 Pass
+Smoke HealthHome 10/12/2016 16:39:56 Pass
+Smoke HealthFirst 10/12/2016 16:48:37 Pass
+Smoke CareConnect 10/12/2016 16:58:56 Pass
+Regression Care Plan 10/12/2016 19:23:57 Fail
+Regression Care Plan 10/12/2016 19:48:06 Fail
+Regression CareConnect 10/13/2016 19:15:41 Fail
+Regression CareConnect 10/13/2016 19:37:13 Fail
+Regression CareConnect 10/13/2016 20:32:59 Fail
+Regression CareConnect 10/13/2016 20:53:49 Fail
+HM002 10/13/2016 21:37:19 Pass
+Regression Care Plan 10/13/2016 22:41:29 Fail
+Regression CareConnect 10/13/2016 23:07:44 Pass
+Regression GroundUp HH 10/14/2016 15:08:41 Fail
+Smoke CareConnect 10/14/2016 15:27:28 Pass
+Regression GroundUp HH 10/14/2016 15:35:08 Fail
+Regression GroundUp HF 10/14/2016 15:39:39 Fail
+Regression GroundUp HF 10/14/2016 15:45:05 Fail
+Regression GroundUp HF 10/14/2016 16:24:22 Pass
+Regression GroundUp HH 10/14/2016 16:30:09 Pass
+Regression GroundUp CC 10/14/2016 16:40:15 Fail
+Regression GroundUp CC 10/14/2016 16:52:42 Pass
+Regression CareConnect 10/14/2016 18:50:29 Pass
+Regression CareConnect 10/14/2016 20:02:04 Fail
+Regression CareConnect 10/14/2016 20:26:41 Fail
+Regression GroundUp HH 10/17/2016 20:08:52 Fail
+Regression GroundUp HH 10/17/2016 22:50:36 Fail
+Regression GroundUp HH 10/18/2016 14:42:52 Fail
+Regression GroundUp HH 10/18/2016 14:52:18 Fail
+Regression Care Plan_comments 10/18/2016 20:31:58 Fail
+Regression Care Plan_comments 10/18/2016 20:39:29 Fail
+Regression Care Plan_comments 10/18/2016 20:43:53 Fail
+Regression Care Plan_comments 10/18/2016 20:52:38 Fail
+Regression Care Plan_comments 10/18/2016 20:55:05 Fail
+Regression Care Plan_comments 10/19/2016 14:55:24 Fail
+Regression GroundUp HH 10/19/2016 15:02:12 Pass
+Smoke HealthHome 10/20/2016 16:34:26 Fail
+Smoke HealthHome 10/20/2016 16:40:12 Fail
+Smoke HealthHome 10/20/2016 16:55:38 Fail
+Smoke HealthHome 10/28/2016 16:23:20 Fail
+Smoke HealthHome 10/28/2016 16:24:04 Fail
+Smoke HealthHome 10/28/2016 16:44:04 Fail
+Smoke HealthHome 10/28/2016 16:45:19 Fail
+Smoke HealthHome 10/28/2016 16:51:34 Fail
+Smoke HealthHome 10/28/2016 19:32:56 Fail
+Smoke HealthHome 10/28/2016 19:45:43 Fail
+Regression Care Plan_Create Careplan 10/28/2016 20:36:47 Fail
+Regression Care Plan_Update Careplan 10/28/2016 20:41:18 Fail
+Regression Care Plan_Update Careplan 10/28/2016 20:45:46 Fail
+Regression Care Plan_Update Careplan 10/28/2016 20:51:03 Fail
+Regression Care Plan_Attestation_History 10/28/2016 20:58:54 Fail
+Regression Care Plan_Attestation_History 10/28/2016 21:07:31 Fail
+Regression Care Plan_Attestation_History 10/28/2016 21:15:24 Fail
+Regression Care Plan_Update Careplan 11/03/2016 22:57:12 Fail
+Regression Care Plan_Update Careplan 11/03/2016 23:01:07 Fail
+Regression Care Plan_Create Careplan 11/04/2016 15:24:45 Fail
+Regression Care Plan_Create Careplan 11/04/2016 15:27:56 Fail
+Regression Care Plan_Create Careplan 11/04/2016 15:34:42 Fail
+Regression Care Plan_Create Careplan 11/04/2016 15:42:51 Fail
+Regression Care Plan_Create Careplan 11/04/2016 16:11:32 Fail
+Regression Care Plan_Create Careplan 11/04/2016 16:14:28 Fail
+Regression Care Plan_Create Careplan 11/04/2016 16:21:09 Fail
+Regression Care Plan_Create Careplan 11/04/2016 16:36:07 Fail
+Regression Care Plan_Create Careplan 11/04/2016 17:03:50 Pass
+Regression Care Plan_Update Careplan 11/04/2016 17:10:32 Fail
+Regression Care Plan_Attestation_History 11/04/2016 18:27:28 Fail
+Regression Care Plan_Attestation_History 11/04/2016 19:07:22 Fail
+Regression Care Plan_Attestation_History 11/04/2016 19:29:10 Fail
+Regression Care Plan_Attestation_History 11/04/2016 19:41:46 Fail
+Regression Care Plan_Attestation_History 11/04/2016 19:45:21 Fail
+Regression Care Plan_Attestation_History 11/04/2016 20:14:04 Fail
+Regression Care Plan_Attestation_History 11/04/2016 20:22:09 Fail
+Regression Care Plan_Attestation_History 11/04/2016 20:38:26 Fail
+Regression Care Plan_Attestation_History 11/04/2016 20:46:48 Fail
+Regression Care Plan_Attestation_History 11/04/2016 20:51:04 Pass
+Regression Care Plan_Create Careplan 11/04/2016 21:10:21 Pass
+Regression Care Plan_Create Careplan 11/05/2016 00:01:23 Fail
+Regression Care Plan_Create Careplan 11/05/2016 00:02:02 Fail
+Regression Care Plan_Create Careplan 11/05/2016 00:02:08 Fail
+Regression Care Plan_Attestation_History 11/07/2016 15:30:06 Fail
+Regression Care Plan_Attestation_History 11/07/2016 15:31:11 Fail
+Regression Care Plan_Attestation_History 11/07/2016 15:39:26 Fail
+Regression Care Plan_Attestation_History 11/07/2016 15:51:46 Pass
+Regression Care Plan_Attestation_History 11/07/2016 15:55:17 Pass
+Regression Care Plan_Create Careplan 11/07/2016 19:18:01 Pass
+Regression Care Plan_Create Careplan 11/07/2016 19:24:41 Fail
+Regression Care Plan_Create Careplan 11/07/2016 19:47:08 Fail
+Regression Care Plan_Create Careplan 11/07/2016 19:57:41 Fail
+Regression Care Plan_Create Careplan 11/07/2016 20:08:46 Fail
+Regression Care Plan_Create Careplan 11/07/2016 20:51:35 Fail
+Regression Care Plan_Create Careplan 11/07/2016 20:59:01 Pass
+Regression Care Plan_Attestation_History 11/07/2016 21:08:16 Pass
+Regression Care Plan_Attestation_History 11/07/2016 21:53:32 Pass
+Regression Care Plan_Create Careplan 11/08/2016 17:05:58 Fail
+Regression Care Plan_Create Careplan 11/08/2016 17:19:54 Pass
+EngagementWorkflow 11/08/2016 20:02:12 Fail
+EngagementWorkflow 11/08/2016 20:21:31 Fail
+EngagementWorkflow 11/08/2016 20:48:11 Pass
+Regression CareConnect -EW 11/08/2016 22:48:01 Fail
+Regression CareConnect -EW 11/08/2016 23:27:33 Fail
+Regression HealthHome_BugFix 11/10/2016 14:45:02 Fail
+Regression HARP_BugFix 11/10/2016 15:05:27 Fail
+Regression GroundUp HH_BugFix 11/10/2016 15:16:16 Fail
+Regression GroundUp HH_BugFix 11/10/2016 15:24:07 Fail
+Regression HARP_BugFix 11/10/2016 15:30:40 Pass
+Regression GroundUp HH_BugFix 11/10/2016 15:43:00 Fail
+Regression HealthHome_BugFix 11/10/2016 16:39:50 Fail
+Smoke HealthHome 11/10/2016 19:49:00 Fail
+Smoke HealthHome 11/10/2016 20:03:08 Fail
+Smoke HealthHome 11/10/2016 20:04:40 Fail
+Smoke HealthHome 11/10/2016 20:17:40 Fail
+Smoke HealthHome 11/10/2016 20:22:11 Fail
+Smoke HealthHome 11/10/2016 20:24:12 Fail
+Smoke HealthHome 11/10/2016 20:37:27 Fail
+Smoke HealthHome 11/10/2016 20:51:40 Fail
+Smoke HealthHome 11/10/2016 20:53:37 Fail
+Smoke HealthHome 11/10/2016 20:54:29 Fail
+Smoke HealthHome 11/10/2016 21:02:20 Fail
+Smoke HealthHome 11/10/2016 22:04:35 Fail
+Smoke HealthHome 11/10/2016 22:30:36 Fail
+Smoke HealthHome 11/11/2016 17:04:07 Fail
+Smoke HealthHome 11/11/2016 17:24:08 Fail
+Smoke HealthHome 11/11/2016 17:41:08 Fail
+Smoke HealthHome 11/11/2016 17:54:06 Fail
+Smoke HealthHome 11/11/2016 18:00:29 Pass
+Smoke HealthHome 11/11/2016 18:07:57 Fail
+Smoke HealthHome 11/11/2016 18:20:03 Fail
+Smoke HealthHome 11/11/2016 18:27:14 Fail
+Smoke HealthHome 11/11/2016 18:46:54 Fail
+Smoke HealthHome 11/11/2016 18:51:19 Fail
+Smoke HealthHome 11/11/2016 19:06:54 Fail
+Smoke HealthHome 11/11/2016 19:46:17 Fail
+Smoke HealthHome 11/11/2016 19:50:41 Fail
+Smoke HealthHome 11/11/2016 19:58:42 Pass
+Smoke HealthHome 11/11/2016 20:12:47 Pass
+Smoke HealthHome 11/11/2016 20:24:43 Pass
+Smoke HealthFirst 11/11/2016 20:48:01 Pass
+Smoke CareConnect 11/11/2016 20:55:21 Fail
+Smoke CareConnect 11/11/2016 21:10:46 Fail
+Smoke HealthFirst 11/11/2016 21:18:41 Fail
+Smoke HealthFirst 11/11/2016 21:42:56 Fail
+Smoke CareConnect 11/14/2016 15:26:35 Fail
+Smoke CareConnect 11/14/2016 15:41:00 Pass
+Smoke HealthFirst 11/14/2016 16:04:59 Fail
+Smoke HealthFirst 11/14/2016 16:16:30 Pass
+Smoke HealthHome 11/14/2016 16:28:33 Pass
+Smoke HealthFirst 11/14/2016 16:37:15 Pass
+Smoke CareConnect 11/14/2016 16:46:37 Pass
+Smoke HealthHome 11/14/2016 17:01:46 Fail
+Smoke HealthHome 11/14/2016 17:26:51 Pass
+Smoke HealthHome 11/14/2016 17:41:02 Pass
+Smoke HealthHome 11/14/2016 21:42:22 Fail
+Regression HealthHome IE 11/15/2016 15:52:07 Fail
+Regression HealthHome IE 11/15/2016 16:13:10 Fail
+Regression HealthHome IE 11/15/2016 16:29:25 Fail
+Regression HealthHome IE 11/15/2016 16:38:12 Fail
+Regression HealthHome IE 11/15/2016 16:54:03 Fail
+Regression HealthHome IE 11/15/2016 17:06:50 Fail
+Regression HealthHome IE 11/15/2016 17:19:18 Fail
+Regression HealthHome IE 11/15/2016 17:40:21 Fail
+Regression HealthHome IE 11/15/2016 17:52:14 Fail
+Regression HealthHome IE 11/15/2016 18:00:09 Fail
+Regression HealthHome IE 11/15/2016 18:21:22 Pass
+Regression HealthHome IE 11/15/2016 18:48:03 Fail
+Regression HealthHome IE 11/15/2016 19:07:07 Fail
+Regression HealthHome IE 11/15/2016 19:15:01 Fail
+Regression HealthHome IE 11/15/2016 19:40:54 Fail
+Regression HealthHome IE 11/15/2016 19:50:07 Fail
+Regression HealthHome IE 11/15/2016 20:08:51 Fail
+Regression HealthHome IE 11/15/2016 20:24:51 Fail
+Regression HealthHome IE 11/15/2016 20:36:11 Fail
+Regression HealthHome IE 11/15/2016 21:53:33 Fail
+Regression HealthFirst IE 11/16/2016 16:51:01 Fail
+Regression HealthFirst IE 11/16/2016 17:10:07 Fail
+Regression HealthFirst IE 11/16/2016 17:33:30 Fail
+Regression HealthFirst IE 11/16/2016 17:44:30 Fail
+Regression HealthFirst IE 11/16/2016 18:05:48 Fail
+Regression HealthFirst IE 11/16/2016 18:19:02 Pass
+Regression HealthFirst IE 11/16/2016 18:31:35 Fail
+Regression HealthFirst IE 11/16/2016 18:45:54 Fail
+Regression HealthFirst IE 11/16/2016 19:06:18 Fail
+Regression HealthFirst IE 11/16/2016 19:55:08 Fail
+Regression HealthHome 11/21/2016 15:40:35 Fail
+Regression HealthHome 11/21/2016 16:06:26 Pass
+Regression CareConnect IE 11/21/2016 16:30:47 Fail
+Regression CareConnect IE 11/21/2016 16:43:38 Fail
+Regression CareConnect IE 11/21/2016 16:56:49 Fail
+Regression CareConnect IE 11/21/2016 17:23:35 Fail
+Regression GroundUp CHH 11/21/2016 21:10:29 Fail
+Regression CareConnect IE 11/21/2016 22:32:26 Fail
+Regression CareConnect IE 11/21/2016 23:19:49 Fail
+Smoke CareConnect 11/22/2016 15:04:55 Fail
+Smoke CareConnect 11/22/2016 15:15:43 Fail
+Regression GroundUp CHH 11/22/2016 20:22:04 Pass
+Regression GroundUp CHH 11/22/2016 20:29:25 Fail
+Regression GroundUp CHH 11/22/2016 20:34:03 Pass
+Regression GroundUp CHH 11/22/2016 22:57:56 Fail
+Regression GroundUp CHH 11/22/2016 23:11:31 Fail
+Regression GroundUp CHH 11/23/2016 15:24:13 Pass
+Regression GroundUp CHH 11/23/2016 15:32:53 Pass
+Regression Care Plan_Create 11/23/2016 15:47:25 Fail
+Regression Care Plan_Update 11/23/2016 15:51:06 Fail
+Regression Care Plan_Attestation_History 11/23/2016 15:54:16 Pass
+Regression Care Plan_Create 11/23/2016 16:03:47 Fail
+Regression Care Plan_Create 11/23/2016 16:10:56 Pass
+Regression Care Plan_Create 11/23/2016 17:07:24 Fail
+Regression Care Plan_Create 11/23/2016 17:12:28 Fail
+Regression Care Plan_Create 11/23/2016 17:21:20 Fail
+Regression Care Plan_Create 11/23/2016 17:28:56 Fail
+Regression Care Plan_Create 11/23/2016 17:34:18 Fail
+Regression Care Plan_Create 11/23/2016 17:43:19 Pass
+Regression Care Plan_Create 11/23/2016 17:54:00 Fail
+Regression Care Plan_Create 11/23/2016 18:02:12 Fail
+Regression Care Plan_Create 11/23/2016 19:26:25 Pass
+CHH Workflow 11/24/2016 15:47:28 Pass
+CHH Workflow 11/24/2016 15:54:14 Pass
+CHH Workflow 11/24/2016 15:59:00 Pass
+CHH Workflow 11/25/2016 15:01:53 Pass
+CHH Workflow 11/25/2016 16:21:16 Pass
+CHH Workflow 11/25/2016 16:50:10 Fail
+Regression CareConnect 11/28/2016 16:00:10 Pass
+CHH Workflow 11/28/2016 16:35:26 Fail
+Smoke CareConnect 11/28/2016 17:38:20 Pass
+CHH Workflow 11/29/2016 17:34:21 Fail
+CHH Workflow 11/29/2016 17:48:06 Fail
+CHH Workflow 11/29/2016 17:54:48 Fail
+CHH Workflow 11/29/2016 18:29:40 Fail
+CHH Workflow 11/29/2016 18:37:44 Fail
+CHH Workflow 11/29/2016 18:47:13 Fail
+CHH Workflow 11/29/2016 19:03:41 Fail
+CHH Workflow 11/29/2016 21:47:25 Fail
+Smoke HealthHome 11/30/2016 10:49:01 Fail
+Smoke HealthFirst 11/30/2016 10:49:01 Fail
+Smoke CareConnect 11/30/2016 10:49:01 Fail
+CHH Workflow 11/30/2016 10:49:01 Fail
+Smoke HealthHome 11/30/2016 10:51:29 Fail
+Smoke HealthFirst 11/30/2016 10:51:29 Fail
+Smoke CareConnect 11/30/2016 10:51:29 Fail
+CHH Workflow 11/30/2016 10:51:30 Fail
+Smoke HealthHome 11/30/2016 10:56:35 Fail
+Smoke HealthFirst 11/30/2016 10:56:35 Fail
+Smoke CareConnect 11/30/2016 10:56:35 Fail
+CHH Workflow 11/30/2016 10:56:35 Fail
+Smoke HealthHome 11/30/2016 10:57:35 Fail
+Smoke HealthFirst 11/30/2016 10:57:35 Fail
+Smoke CareConnect 11/30/2016 10:57:35 Fail
+CHH Workflow 11/30/2016 10:57:35 Fail
+Smoke HealthHome 11/30/2016 11:12:50 Fail
+Smoke HealthFirst 11/30/2016 11:23:40 Fail
+Smoke CareConnect 11/30/2016 11:35:17 Fail
+CHH Workflow 11/30/2016 11:42:45 Fail
+Regression HealthHome IE 12/13/2016 05:08:52 Fail
+Smoke HealthHome 01/11/2017 00:44:02 Fail
+Smoke HealthFirst 01/11/2017 00:47:07 Fail
+Smoke CareConnect 01/11/2017 00:55:49 Fail
+Regression HealthHome_BugFix 01/11/2017 01:08:25 Fail
+Regression GroundUp HH_BugFix 01/11/2017 01:12:53 Pass
+Regression HARP_BugFix 01/11/2017 01:18:43 Fail
+Regression HealthFirst_BugFix 01/11/2017 01:25:57 Fail
+Regression GroundUp HF 01/11/2017 01:27:03 Fail
+Regression HealthHome_BugFix 01/11/2017 02:02:58 Fail
+Regression HARP_BugFix 01/11/2017 02:07:25 Pass
+Regression HealthFirst_BugFix 01/11/2017 02:10:12 Fail
+Regression GroundUp HF 01/11/2017 02:14:43 Pass
+Regression CareConnect_BugFix 01/11/2017 02:41:36 Pass
+Regression GroundUp CC 01/11/2017 02:46:20 Pass
+Regression Care Plan_Create 01/11/2017 02:54:58 Fail
+Regression Care Plan_Update 01/11/2017 02:59:56 Fail
+Regression Care Plan_Attestation_History 01/11/2017 03:05:01 Fail
+Smoke STAR 01/25/2017 00:21:47 Fail
+Regression STAR 01/25/2017 00:47:33 Fail
+Regression STAR 01/25/2017 00:59:17 Fail
+Regression STAR 01/25/2017 01:11:23 Fail
+Regression STAR 01/25/2017 01:39:34 Fail
+Regression STAR 01/25/2017 01:53:32 Fail
+Regression STAR 01/25/2017 05:07:12 Fail
+Regression STAR 01/25/2017 05:21:40 Fail
+Regression STAR 01/25/2017 05:35:33 Fail
+Regression HealthHome 07/10/2017 15:06:11 Fail
+Regression HealthHome 07/10/2017 15:08:46 Fail
+Regression HealthHome 07/10/2017 15:09:45 Fail
+Regression HealthHome 07/10/2017 18:16:10 Fail
+AEM 07/11/2017 19:20:50 Fail
+AEM 07/11/2017 19:23:36 Fail
+AEM 07/12/2017 18:18:49 Fail
+AEM 07/12/2017 18:31:31 Fail
+AEM 07/12/2017 20:12:49 Fail
+AEM 07/12/2017 20:21:01 Fail
+AEM 07/12/2017 20:34:26 Pass
+AEM 07/12/2017 20:59:49 Fail
+AEM 07/12/2017 21:00:22 Fail
+AEM 07/12/2017 21:15:06 Fail
+AEM 07/12/2017 21:19:18 Pass
+AEM 07/12/2017 21:32:55 Fail
+AEM 07/12/2017 21:39:40 Fail
+AEM 07/13/2017 20:18:56 Fail
+AEM 07/13/2017 20:21:41 Fail
+AEM 07/13/2017 20:23:48 Fail
+AEM 07/13/2017 20:41:32 Fail
+AEM 07/13/2017 20:48:37 Fail
+AEM 07/13/2017 20:57:29 Fail
+AEM 07/13/2017 21:11:01 Fail
+AEM 07/13/2017 21:14:28 Fail
+AEM 07/13/2017 21:23:08 Pass
+AEM 07/13/2017 21:36:09 Fail
