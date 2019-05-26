@@ -1,8 +1,10 @@
 package com.driver;
 
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterSuite;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import com.common.BusinessActionCareTool;
@@ -17,6 +19,7 @@ import java.util.*;
  */
 public class Driver extends CommonActions{
 	
+	public static WebDriver mD;
 	/** The method. */
 	static CommonActions method = new CommonActions();
 	
@@ -212,7 +215,11 @@ public class Driver extends CommonActions{
 		APPLICATION_LOGS.debug("Exit: testcase");
 	}
 
-
+@AfterSuite
+public static void browserClose()
+{
+	CommonActions.mD.close();
+}
 
 	/**
 	 * MethodName: data()
